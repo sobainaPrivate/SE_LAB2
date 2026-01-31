@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListyCity</string>
+    <string name="sample_text">sample text</string>
+    <string name="add_city">Add City</string>
+    <string name="name">Name</string>
+    <string name="delete_city" />
+    <string name="delete_cityy">Delete City</string>
+    <string name="enter_name_of_city_to_add">text</string>
+    <string name="enter_name_of_cityccc_to_add">Enter Name of City to Add :)</string>
+    <string name="namee">enter name of city</string>
+</resources>
