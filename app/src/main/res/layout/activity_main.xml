@@ -14,16 +14,14 @@
         android:id="@+id/city_edittext"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:hint="@string/namee"
+        android:hint="@string/enter_name_of_cityccc_to_add"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="@string/enter_name_of_cityccc_to_add"
         android:autofillHints=""
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        android:layout_margin="16dp"
-        tools:ignore="LabelFor,MissingConstraints" />
+        android:layout_margin="16dp" />
 
 
     <Button
